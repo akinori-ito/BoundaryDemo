@@ -4,6 +4,8 @@ Akinori Ito, 2017/6/13
 This program is a collection of demonstration program displaying classification boundaries of various 
 classifiers, such as the linear classifier, SVM, decision tree, random forests and neural network.
 
+![Sample image](sampleimage.png)
+
 ## Requirements
 This program uses the following R packages:
 * kernlab
