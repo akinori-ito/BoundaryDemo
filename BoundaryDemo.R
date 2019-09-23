@@ -56,7 +56,7 @@ svmdemo <- function(kernel="rbfdot",kpar=list(sigma=1),cex=0.3) {
 }
 
 lindemo <- function(cex=0.3) {
-  svmdemo("vanilladot",list())
+  svmdemo("vanilladot",list(),cex=cex)
 }
 
 nndemo <- function(size=c(3),cex=0.3) {
